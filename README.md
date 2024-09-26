@@ -21,8 +21,7 @@ The following **optional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented required features:
-![Video Walkthrough]((https://imgur.com/a/m4YzkTR))
-
+[Imgur](https://imgur.com/K8jqKFb)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Imgur  
