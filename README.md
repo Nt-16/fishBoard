@@ -23,6 +23,7 @@ The following **optional** features are implemented:
 Here's a walkthrough of implemented required features:
 [Imgur](https://imgur.com/K8jqKFb)
 
+<img src='https://imgur.com/K8jqKFb.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Imgur  
 <!-- Recommended tools:
