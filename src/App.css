@@ -40,7 +40,7 @@
 .read-the-docs {
   color: #888;
 }
-/* App.css */
+/* ////////////////////////////// */
 .card-container {
   display: flex;
   flex-wrap: wrap;
@@ -50,13 +50,13 @@
 
 @media (min-width: 600px) {
   .card-container {
-    justify-content: space-between;
+    justify-content: center;
   }
 }
 
 @media (min-width: 900px) {
   .card-container {
-    justify-content: space-evenly;
+    justify-content: center;
   }
 }
 

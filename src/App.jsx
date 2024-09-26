@@ -70,11 +70,16 @@ const App = () => {
   return (
     <div style={{ padding: '2rem' }}>
       <Typography variant="h4" gutterBottom align="center" margin='2rem'
-        sx={{
-          fontSize: '3rem', // Make the font larger
-          fontWeight: 'bold', // Make the text bold
-          textShadow: '2px 4px 6px rgba(0, 0, 0, 0.3)', // Add shadow
-          color: '#333', // Dark color for better contrast
+         sx={{
+          fontSize: {
+            xs: '2rem', // Font size for extra-small screens
+            sm: '2.5rem', // Font size for small screens
+            md: '3rem', // Font size for medium screens
+            lg: '3.5rem', // Font size for large screens
+          },
+          fontWeight: 'bold',
+          textShadow: '2px 4px 6px rgba(0, 0, 0, 0.3)',
+          color: '#333',
         }}
       >
         Aquarium Enthusiasts Board
